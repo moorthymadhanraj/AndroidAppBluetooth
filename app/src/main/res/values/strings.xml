@@ -1,0 +1,21 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">Bt_C_19</string>
+    <string name="maintxt">Bluetooth C-19</string>
+    <string name="textSplashScreen">Corona Pandemic App</string>
+
+    <string name="but1">Find Devices</string>
+    <string name="but2">Paired Devices</string>
+    <string name="but3">Info</string>
+
+    <string name="find">Press To Scan Devices within 2m</string>
+
+
+    //Info Page
+    <string name="t1">Symptoms:</string>
+    <string name="t2" tools:ignore="TypographyDashes">People with COVID-19 have had a wide range of symptoms reported – ranging from mild symptoms to severe illness. Symptoms may appear 2-14 days after exposure to the virus. People with these symptoms may have COVID-19:</string>
+    <string name="t3">\u25CFFever or chills\n\u25CFCough\n\u25CFShortness of breath or difficulty breathing\n\u25CFFatigue\n\u25CFMuscle or body aches\n\u25CFHeadache\n\u25CFNew loss of taste or smell\n\u25CFSore throat\n\u25CFCongestion or runny nose\n\u25CFNausea or vomiting\n\u25CF Diarrhea\n</string>
+    <string name="t4">Everyone Should:</string>
+    <string name="t5">\u25CFWash your hands often\n\u25CFAvoid close contact\n\u25CFCover your mouth and nose with a mask when around others\n\u25CFCover coughs and sneezes\n\u25CFClean and disinfect\n\u25CFMonitor Your Health Daily</string>
+
+
+</resources>

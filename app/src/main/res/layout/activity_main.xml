@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center"
+    tools:context=".MainActivity">
+
+    <TextView
+        android:id="@+id/txtView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/maintxt"
+        android:textColor="@color/colorPrimary"
+        android:textStyle="bold"
+        android:textAllCaps="true"
+        android:gravity="center"
+        android:textSize="24sp"
+        android:layout_marginTop="30dp"
+        />
+
+       <Button
+        android:id="@+id/but1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/but1"
+        android:textColor="@color/colorPrimary"
+        android:layout_marginTop="30dp"
+        android:textSize="24sp"
+        android:drawableRight="@drawable/ic_baseline_arrow_forward_24"
+        android:background="@drawable/but_shape"
+           android:drawableEnd="@drawable/ic_baseline_arrow_forward_24" />
+
+
+    <Button
+        android:id="@+id/but3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/but3"
+        android:layout_marginTop="30dp"
+        android:layout_marginBottom="30dp"
+        android:textColor="@color/colorPrimary"
+        android:drawableRight="@drawable/ic_baseline_arrow_forward_24"
+        android:textSize="24sp"
+        android:background="@drawable/but_shape"
+        android:drawableEnd="@drawable/ic_baseline_arrow_forward_24" />
+
+    <com.google.android.material.floatingactionbutton.FloatingActionButton
+        android:id="@+id/floating_action_button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="bottom|right|end"
+        android:layout_margin="16dp"
+        app:fabSize="mini"
+        app:backgroundTint="@color/colorPrimary"
+        app:borderWidth="0dp"
+        app:elevation="6dp"
+        android:clickable="true"
+        app:srcCompat="@drawable/ic_baseline_info_24"
+        tools:ignore="RtlHardcoded,VectorDrawableCompat"
+        android:focusable="true" />
+
+</LinearLayout>
