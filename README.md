@@ -7,7 +7,7 @@
 Basically, android architecture is based on Linux and the applications gives major key points where several complex tasks are made easier using Android oriented applications. It supports to deal with heterogenous hardware components as there are several android devices available globally. Android deals with all the aspects of the hardware components as per the devices which are communicated using sensors majorly. It handles most of the resources as per the device’s hardware components. Bluetooth is important component used to send or receive data from one device to other devices wirelessly with its framework.
 
 # Terms
-Bluetooth, Distance Violations, Logging, RSSI
+Bluetooth, Distance Violations, Logging, RSSI.
 
 # Introduction
 The goal of this project is to create an android application (APK) to find the nearby devices using Bluetooth to know the violation of the distance where we can measure the distance between using the signal strength. There are few ways to find this distance using some features in Android devices. This application uses Bluetooth to fulfill the requirements. Using this feature, the application is developed to detect the nearby devices using Bluetooth. It can detect the devices whichever is nearby as per the signal strength (RSSI) of other devices.
