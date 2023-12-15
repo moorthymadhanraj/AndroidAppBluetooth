@@ -1,7 +1,7 @@
 # AndroidAppBluetooth
 
 * Native Android Mobile Application for DISTANCE VIOLATION RECOGNITION (Bluetooth)
-* Corona Pandemic Situational Concept
+* Corona Pandemic Situational Concept Mobile Application
 
 # Abstract
 Basically, android architecture is based on Linux and the applications gives major key points where several complex tasks are made easier using Android oriented applications. It supports to deal with heterogenous hardware components as there are several android devices available globally. Android deals with all the aspects of the hardware components as per the devices which are communicated using sensors majorly. It handles most of the resources as per the device’s hardware components. Bluetooth is important component used to send or receive data from one device to other devices wirelessly with its framework.
